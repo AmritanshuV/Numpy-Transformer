@@ -1,3 +1,6 @@
+The code implementation can be given as : 
+
+
 **Numpy-Transformer**
 Numpy-Transformer is a numpy-based implementation of the Transformer architecture, one of the most influential models in Machine Translation and Natural Language Processing.
 
