@@ -1,4 +1,6 @@
-The code implementation can be given as : 
+The code implementation can be given as :  
+The main file is https://github.com/AmritanshuV/Numpy-Transformer/blob/main/transformer.py , 
+
 
 
 **Numpy-Transformer**
