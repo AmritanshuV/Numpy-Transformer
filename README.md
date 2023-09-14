@@ -1,5 +1,6 @@
 The code implementation can be given as :  
-The main file is [a link]( https://github.com/AmritanshuV/Numpy-Transformer/blob/main/transformer.py) , 
+[transformer.py]( https://github.com/AmritanshuV/Numpy-Transformer/blob/main/transformer.py) - contains the seq2seq class.
+[encoder.py](https://github.com/AmritanshuV/Numpy-Transformer/blob/main/layers/combined/decoder_layer.py) - is the encoder layer, building block for 
 
 
 
