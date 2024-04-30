@@ -1,7 +1,7 @@
 Setting up the envoirnment for Transformers:
 Setup virtual env.
 
-Install the required packages: The installed required packages could be found here [requirements.txt](https://github.com/AmritanshuV/Numpy-Transformer/blob/main/transformer/requirements.txt)
+Install the required packages: The installed required packages could be found here [requirements.txt](https://github.com/AmritanshuV/Numpy-Transformer/blob/main/transformer/requirements.txt).
 Please be aware! These packages are set according to the CUDA Driver and python version in your system.
 For running it on HPCs(for eg Alex@NHR FAU), see the modules available and install the drives in the virtual env accordingly
 
