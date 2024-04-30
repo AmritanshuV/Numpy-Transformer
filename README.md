@@ -1,3 +1,4 @@
+Installation and usage:
 Setting up the envoirnment for Transformers:
 Setup virtual env.
 
@@ -7,13 +8,8 @@ For running it on HPCs(for eg Alex@NHR FAU), see the modules available and insta
 
 The code implementation can be given as :  
 [transformer.py](https://github.com/AmritanshuV/Numpy-Transformer/blob/main/transformer/transformer.py) - contains the seq2seq class.
-
-[encoder_layer.py](https://github.com/AmritanshuV/Numpy-Transformer/blob/main/layers/combined/decoder_layer.py) - is the encoder layer, building block for [encoder.py](https://github.com/AmritanshuV/Numpy-Transformer/blob/main/encoder.py) .
-
-[self_attention.py](https://github.com/AmritanshuV/Numpy-Transformer/blob/main/layers/combined/self_attention.py) shows the implementation of self attention mechanism.
-
-[decoder_layer.py](https://github.com/AmritanshuV/Numpy-Transformer/blob/main/decoder.py) base implementation for [decoder.py](https://github.com/AmritanshuV/Numpy-Transformer/blob/main/decoder.py)
-
+For running the code:
+Go to the directory [transfomer](https://github.com/AmritanshuV/Numpy-Transformer/tree/main/transformer) and use "python transformer.py"
 
 
 
@@ -33,5 +29,3 @@ Features:
 🚀 Pure Numpy: No deep learning libraries required.
 🔍 Attention Visualization: Understand how the model focuses on various parts of the input.
 💡 Interpretable: Written with clarity in mind for educational purposes.
-Installation & Usage:
-Details on how to install and use the Numpy-Transformer would be here.
