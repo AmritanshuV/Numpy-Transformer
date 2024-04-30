@@ -1,3 +1,6 @@
+Setting up the envoirnment for Transformers:
+The installed required packages could be found here [transformer.py](https://github.com/AmritanshuV/Numpy-Transformer/blob/main/transformer/requirements.txt)
+
 The code implementation can be given as :  
 [transformer.py]( https://github.com/AmritanshuV/Numpy-Transformer/blob/main/transformer.py) - contains the seq2seq class.
 
